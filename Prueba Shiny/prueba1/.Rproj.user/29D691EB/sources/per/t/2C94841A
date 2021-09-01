@@ -1,9 +1,9 @@
 {
     "id": "2C94841A",
-    "path": "C:/Users/User/Desktop/Prueba Shiny/prueba1/prueba_margaret/app.R",
+    "path": "E:/Cg/Programas/Git/Shiny_App/Prueba Shiny/prueba1/prueba_margaret/app.R",
     "project_path": "prueba_margaret/app.R",
     "type": "r_source",
-    "hash": "2675175713",
+    "hash": "3763501229",
     "contents": "",
     "dirty": false,
     "created": 1629828755427.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "204,27",
-        "scrollLine": "172"
+        "cursorPosition": "149,4",
+        "scrollLine": "135"
     },
     "folds": "",
-    "lastKnownWriteTime": 1630007293,
+    "lastKnownWriteTime": 1630534102,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1630007293268,
+    "last_content_update": 1630534102821,
     "read_only": false,
     "read_only_alternatives": []
 }
