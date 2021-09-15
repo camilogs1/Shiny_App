@@ -9,7 +9,7 @@ library(crosstalk)
 
 
 data <- read_csv("https://docs.google.com/spreadsheets/d/1RlqYP8SEnJAQR00BHeyjovjB4Bm6PduT77ApeaekzwM/export?format=csv&gid=0") |> 
-  mutate(enlace = str_c("https://drive.google.com/u/0/uc?id=",id,"&export=download"),
+  mutate(enlace = str_c("https://drive.google.com/uc?id=",id,"&export=download&authuser=0"),
          enlace= str_c("<a href=",
                     enlace,
                     ">Download</a>"),
