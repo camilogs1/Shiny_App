@@ -1,0 +1,13 @@
+name: Investigacion
+title: Investigacion
+username:
+account: bryan-arias
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4659822
+bundleId: 5036399
+url: https://bryan-arias.shinyapps.io/Investigacion/
+when: 1631721546.50757
+lastSyncTime: 1631721546.50757
+asMultiple: FALSE
+asStatic: FALSE
